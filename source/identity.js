@@ -3,7 +3,7 @@ import _identity from './internal/_identity';
 
 
 /**
- * A function that does nothing but return the parameter supplied to it. Good
+ * A function that does nothing but return the first parameter supplied to it. All other parameters are ignored. Good
  * as a default or placeholder function.
  *
  * @func
